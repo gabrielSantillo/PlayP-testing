@@ -1,0 +1,5 @@
+# Usually we add these files in the gitignore
+# dbcreds.py
+#.vscode/
+# venv/
+# __pycache__
